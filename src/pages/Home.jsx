@@ -1,4 +1,5 @@
 import './Home.css'
+import profileImg from './WhatsApp Image 2026-04-22 at 19.46.58.jpeg'
 
 function Home() {
   return (
@@ -6,9 +7,7 @@ function Home() {
       <section className="hero-section">
         <div className="profile-container">
           <div className="profile-image">
-            <div className="profile-placeholder">
-              <span>TRA</span>
-            </div>
+            <img src={profileImg} alt="Tavisha Reddy Anneda" />
           </div>
           <div className="hero-text">
             <h1>Tavisha Reddy Anneda</h1>

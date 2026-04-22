@@ -9,7 +9,6 @@ function Projects() {
       location: 'Mahindra University, Hyderabad',
       description: 'Designed and deployed a full-stack Real Estate Management System that streamlines property listings, tenant management, and transaction tracking through an end-to-end digital platform.',
       technologies: ['Full-Stack Development', 'Property Management', 'Transaction Tracking'],
-      github: 'https://github.com'
     },
     {
       id: 2,
@@ -18,7 +17,6 @@ function Projects() {
       location: 'Mahindra University, Hyderabad',
       description: 'Developed a data-driven system for detecting adverse drug events and substance use patterns using advanced analytics and machine learning techniques.',
       technologies: ['Machine Learning', 'Data Analytics', 'Healthcare'],
-      github: 'https://github.com'
     }
   ]
 
